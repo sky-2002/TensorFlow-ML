@@ -4,6 +4,8 @@ Dataset used: `PubMed_20k_RCT_numbers_replaced_with_at_sign`
 
 ## Summary of all approaches:
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/84656834/191027015-dde51408-220d-4081-81e0-b989f352a240.png">
+It was interesting to see how the tribrid model, which includes the token embedding, the character embedding and the positional
+embedding performed well than other approaches and lead to a <b>6.33% increase</b> in the F1-Score.
 
 ## Details of the approaches used
 
