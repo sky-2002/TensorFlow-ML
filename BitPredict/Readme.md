@@ -5,6 +5,8 @@ Summary of results by various approaches used
 |Model used|MAPE|MAE|
 |----------|----|---|
 |Naive forecast|2.51|567.98|
+|Moving average model|3.12|-|
+|ARIMA model|3.15|-|
 |Simple Dense model(window=7)|2.54|568.95|
 |Simple Dense model(window=30)|2.75|608.26|
 |Conv1D model|2.50|561.27|
